@@ -1,3 +1,2 @@
 ﻿Natasha Ritter
-rittern@oregonstate.edu
-green
+23
